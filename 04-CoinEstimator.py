@@ -1,3 +1,8 @@
+# 7/29/2019
+# One of many application challenges from the /r/learnpython subreddit of varying degrees of difficulty
+# Link: https://docs.google.com/document/d/1TyqD2_oDtiQIh_Y55J5RfeA91JJECc97xYIKM112H9I/
+# Created by Khalil Najjar
+
 import time
 import math
 
